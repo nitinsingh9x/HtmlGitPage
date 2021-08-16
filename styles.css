@@ -1,0 +1,33 @@
+body{
+	margin: 0 10%;
+}
+.container{
+	display: flex;
+	justify-content: space-between;
+}
+.card{
+	border: 1px solid #E2E2E2;
+	width: 300px;
+}
+.title{
+	margin: 30px 25px;
+	font-family: Roboto;
+}
+.cart_info{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.product_title{
+	font-size: 20px;
+	color: #333333;
+}
+.product_detail{
+	font-size: 15px;
+	margin: 25px 0;
+	color:#666666;
+}
+.product_price{
+	font-size: 35px;
+	color: #333333;
+}
